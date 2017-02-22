@@ -1,4 +1,4 @@
-package substratum.theme.template;
+package com.dm47021.hexostratum;
 
 import android.app.Activity;
 import android.content.Context;
